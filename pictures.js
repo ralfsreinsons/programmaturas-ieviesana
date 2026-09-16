@@ -1,6 +1,8 @@
 const pictures = [
     "pictures/jsFunct.png",
-    "pictures/gitrepo.png"
+    "pictures/gitrepo.png",
+    "pictures/indexPage.png",
+    "pictures/PicturesPage.png"
 ];
 
 const picture = document.getElementById("picture");
